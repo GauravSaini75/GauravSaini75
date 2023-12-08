@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<img align="center" width="100%" height="250px" src="assets/banner/banner.jpg">
 
 <h1 align="center">Hi 👋, I'm Jai Kumar Saini</h1>
 
