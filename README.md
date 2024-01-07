@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Saini</h1>
 
 <p align="right">
-  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=30&center=true&vCenter=true&width=700%&lines=Front+End+Developer;Tech+Enthusiast;BCA+Undergraduate"/><hr>  
+  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=30&center=true&vCenter=true&width=700%&lines=Front+End+Developer;Tech+Enthusiast;React+Native"/><hr>  
 <img align="right" alt="Coding" width="275" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
   <br>
